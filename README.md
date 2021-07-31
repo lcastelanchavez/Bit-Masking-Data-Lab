@@ -1,5 +1,7 @@
 # Bit-Masking-Data-Lab
-CS33 Data Lab
+CS33: Computer Organization
+
+Data Lab
 
 
 
